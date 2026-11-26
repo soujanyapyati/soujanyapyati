@@ -305,9 +305,15 @@ The project demonstrates a practical Machine Learning workflow including:
 
 <div align="center">
 
-<a href="https://github.com/soujanya04122007">
+<a href="https://github.com/soujanya04122007" target="_blank">
 
 <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/soujanya-nagaraj-pyati-77950b410/" target="_blank">
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 
 </a>
 
@@ -330,22 +336,5 @@ The project demonstrates a practical Machine Learning workflow including:
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:312E81,75:172554,100:020617&height=140&section=footer" width="100%"/>
-
-</div>
- # 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/soujanya04122007" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/soujanya-nagaraj-pyati-77950b410/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
-</a>
-
-<a href="mailto:soujanyanagarajpyati4@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-312E81?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
-</a>
 
 </div>
